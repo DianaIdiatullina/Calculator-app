@@ -29,7 +29,7 @@
   "devDependencies": {
     "@mapbox/stylelint-processor-arbitrary-tags": "^0.2.0",
     "jest": "^23.6.0",
-    "jsdom": "^13.1.0",
+    "jsdom": "^16.5.0",
     "mocha": "^5.2.0",
     "stylelint": "^9.10.1",
     "stylelint-config-standard": "^18.2.0",
